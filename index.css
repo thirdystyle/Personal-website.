@@ -1,0 +1,86 @@
+.prof1{
+    border-radius: 50%;
+    height: 100px;
+
+}
+
+.title1{
+    background-image:url(back.png)
+}
+
+.container-wall{
+    width: 100%;
+    height: 100vh;
+    background-image:url(rickWallpaper.png);
+    background-position: center;
+    background-size: 100%;
+    position: relative; 
+
+    
+}
+
+#image2{border-radius: 10%;}
+
+
+#icon1{margin-right: 50px; color: black; background-color: rgb(255, 255, 255);}
+#icon2{margin-right: 50px; color: blue;
+    background-color: #fff;}
+#icon3{margin-right: 50px; color: transparent;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background-clip: text;
+    -webkit-background-clip: text;}
+#icon4{margin-right: 50px; color: red;background-color: white;
+}
+
+
+.flex-container{
+    
+    display: flex;
+    justify-content: center;
+
+
+}
+
+#p1{ 
+    font-family: "Tinos", serif;
+    font-weight: 400;
+    font-style: italic;}
+  
+
+#h12{
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 3px 0 #232931;
+    font-size: 44px;
+    color: black;
+  }
+  #num1{
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  #phone{
+    margin-top: 10px;
+    
+  
+   }
+   #section3{
+   }
+   #name{
+    color: white;
+    font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-style: normal;
+
+   }
+
+   #nameunder2{
+    color: white;
+    
+   }
+   #nameunder3{
+    color: white;
+    
+   }
+   
